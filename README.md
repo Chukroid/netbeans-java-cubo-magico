@@ -1,4 +1,4 @@
-# Magic Square en Java
+# Magic Square in Java
 A NetBeans Java project that challenges players to solve a 3x3 magic square puzzle. The goal is to arrange unique numbers from 1 to 9 in a 3x3 grid such that the sum of each row, each column, and both diagonals equals 15. This project features an interactive graphical user interface (GUI) for solving the puzzle, with built-in validation to ensure all conditions of the magic square are met. It serves as a practical example of Java programming, GUI development using Swing, and basic algorithmic problem-solving.
 
 # How to Install and Run
